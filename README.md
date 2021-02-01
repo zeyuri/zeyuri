@@ -12,7 +12,7 @@
 
 ##### BIO
 
-- 🔥 Working at Deal[site](https://deal.com.br/)
+- 🔥 Working at Deal [site](https://deal.com.br/)
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.md`
 - 🌍 Looking for opportunities to make positive impact on the world
 - 🌱 Learning all about **Open Source**
