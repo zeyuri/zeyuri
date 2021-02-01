@@ -2,7 +2,7 @@
 
 
 
-#### I'm a Front-End Developer working Curitiba, Brazil.
+#### I'm a Front-End Developer working from Curitiba, Brazil.
 
 ##### NOW
 
