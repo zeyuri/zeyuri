@@ -7,7 +7,7 @@
 ##### NOW
 
 - 📖 Learning OCAML and Functional Programming [The Book](https://www.cs.cornell.edu/courses/cs3110/2020fa/textbook/)
-- 💅 Designing a new React Fundamentals Free workshop
+- 💅 Designing a new Free and Open Source React Fundamentals Workshop
 - ✍ Writing for my new blog
 
 ##### BIO
