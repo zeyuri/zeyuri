@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, My Name is José Yuri, but you can call me Zé, we know each other now.
 
-<!--
-**zeyuri/zeyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I'm a Front-End Developer working Curitiba, Brazil.
+
+##### NOW
+
+- 📖 Learning OCAML and Functional Programming [The Book](https://www.cs.cornell.edu/courses/cs3110/2020fa/textbook/)
+- 💅 Designing a new React Fundamentals Free workshop
+- ✍ Writing for my new blog
+
+##### BIO
+
+- 🔥 Working at Deal[site](https://deal.com.br/)
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.md`
+- 🌍 Looking for opportunities to make positive impact on the world
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
