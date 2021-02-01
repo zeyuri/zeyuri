@@ -15,5 +15,4 @@
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.md`
 - 🌍 Looking for opportunities to make positive impact on the world
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
